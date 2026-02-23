@@ -7,4 +7,4 @@ Aberdeen’s immersive R&B and House destination.
 2. `npm run dev`
 
 ## 🌐 Deployment
-Optimized for Vercel. Connect your GitHub repo and deploy.
+Optimized for Vercel. Connect GitHub repo and deploy.
